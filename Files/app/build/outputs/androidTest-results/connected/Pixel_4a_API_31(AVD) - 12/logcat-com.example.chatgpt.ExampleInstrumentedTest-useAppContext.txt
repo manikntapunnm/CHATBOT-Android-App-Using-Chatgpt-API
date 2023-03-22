@@ -1,0 +1,2 @@
+03-20 11:13:50.629  9699  9758 I TestRunner: started: useAppContext(com.example.chatgpt.ExampleInstrumentedTest)
+03-20 11:13:50.646  9699  9758 I TestRunner: finished: useAppContext(com.example.chatgpt.ExampleInstrumentedTest)
