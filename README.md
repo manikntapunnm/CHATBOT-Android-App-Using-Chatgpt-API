@@ -29,3 +29,7 @@ Input field: An input field that allows users to enter messages and send them to
 ChatGPT API integration: The application utilizes the ChatGPT API for natural language processing and conversation generation.
 
 ![Screenshot_20230321-140326_Chatgpt](https://user-images.githubusercontent.com/111174684/226852271-da381abc-3fee-4faa-8f92-02a003013254.jpg)
+
+![Screenshot_20230321-140316_Chatgpt](https://user-images.githubusercontent.com/111174684/226853058-40fe1087-30b9-410d-937c-4f21de07294a.jpg)
+
+![Screenshot_20230321-140031_Chatgpt](https://user-images.githubusercontent.com/111174684/226853142-5104273f-f72a-4983-8094-72fb05e220b7.jpg)
